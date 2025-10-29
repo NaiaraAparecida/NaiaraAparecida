@@ -54,7 +54,7 @@ Atuo conectando **design, tecnologia e experiência do usuário**, criando inter
 ### 💬 Vamos nos conectar?
 
 📫 **Entre em contato:**  
-[🌐 Portfólio]([https://naiaracruz.github.io/portfolio-site](https://portfolio-site-naiara.netlify.app/)) • [💼 LinkedIn](www.linkedin.com/in/naiara-cruz) • [📘 Notion Docs]([https://naiaracruz.notion.site](https://www.notion.so/Ol-eu-sou-a-Naiara-Cruz-71d08853f4a34a47bf29353aa23c521f))
+[🌐 Portfólio](https://portfolio-site-naiara.netlify.app/) • [💼 LinkedIn](www.linkedin.com/in/naiara-cruz) • [📘 Notion Docs](https://www.notion.so/Ol-eu-sou-a-Naiara-Cruz-71d08853f4a34a47bf29353aa23c521f)
 
 ---
 
